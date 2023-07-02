@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, </h1>
-<h3 align="center">A full-stack Web Developer.</h3>
+<h3 align="center">A Full-Stack Web Developer.</h3>
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
